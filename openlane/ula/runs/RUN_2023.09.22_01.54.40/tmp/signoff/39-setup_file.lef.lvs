@@ -1,0 +1,1 @@
+lvs {/ula2_test/ula/runs/RUN_2023.09.22_01.54.40/results/signoff/ula.spice ula} {/ula2_test/ula/runs/RUN_2023.09.22_01.54.40/tmp/signoff/36-ula.pnl.v ula} /home/bignixon/unic-cass/pdks/sky130A/libs.tech/netgen/sky130A_setup.tcl /ula2_test/ula/runs/RUN_2023.09.22_01.54.40/logs/signoff/39-ula.lef.lvs.log -json

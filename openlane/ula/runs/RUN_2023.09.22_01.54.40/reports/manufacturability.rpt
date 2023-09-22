@@ -1,0 +1,19 @@
+Design Name: ula
+Run Directory: /ula2_test/ula/runs/RUN_2023.09.22_01.54.40
+----------------------------------------
+
+Magic DRC Summary:
+Source: /ula2_test/ula/runs/RUN_2023.09.22_01.54.40/reports/signoff/drc.rpt
+Total Magic DRC violations is 0
+----------------------------------------
+
+LVS Summary:
+Source: /ula2_test/ula/runs/RUN_2023.09.22_01.54.40/logs/signoff/39-ula.lef.lvs.log
+Number of nets: 615                        |Number of nets: 615                        
+Design is LVS clean.
+----------------------------------------
+
+Antenna Summary:
+Source: /ula2_test/ula/runs/RUN_2023.09.22_01.54.40/logs/signoff/41-arc.log
+Pin violations: 0
+Net violations: 0

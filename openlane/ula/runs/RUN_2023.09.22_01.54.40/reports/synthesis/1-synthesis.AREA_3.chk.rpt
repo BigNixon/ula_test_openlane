@@ -1,0 +1,20 @@
+
+60. Executing CHECK pass (checking for obvious problems).
+Checking module ula...
+Warning: Wire ula.\result [15] is used but has no driver.
+Warning: Wire ula.\result [14] is used but has no driver.
+Warning: Wire ula.\result [13] is used but has no driver.
+Warning: Wire ula.\result [12] is used but has no driver.
+Warning: Wire ula.\result [11] is used but has no driver.
+Warning: Wire ula.\result [10] is used but has no driver.
+Warning: Wire ula.\result [9] is used but has no driver.
+Warning: Wire ula.\result [8] is used but has no driver.
+Warning: Wire ula.\result [7] is used but has no driver.
+Warning: Wire ula.\result [6] is used but has no driver.
+Warning: Wire ula.\result [5] is used but has no driver.
+Warning: Wire ula.\result [4] is used but has no driver.
+Warning: Wire ula.\result [3] is used but has no driver.
+Warning: Wire ula.\result [2] is used but has no driver.
+Warning: Wire ula.\result [1] is used but has no driver.
+Warning: Wire ula.\result [0] is used but has no driver.
+Found and reported 16 problems.

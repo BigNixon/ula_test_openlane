@@ -1,0 +1,25 @@
+OpenROAD 41a51eaf4ca2171c92ff38afb91eb37bbd3f36da 
+This program is licensed under the BSD-3 license. See the LICENSE file for details.
+Components of this program may be licensed under more restrictive licenses which must be honored.
+[INFO ODB-0222] Reading LEF file: /ula2_test/ula/runs/RUN_2023.09.22_01.54.40/tmp/merged.nom.lef
+[WARNING ODB-0220] WARNING (LEFPARS-2036): SOURCE statement is obsolete in version 5.6 and later.
+The LEF parser will ignore this statement.
+To avoid this warning in the future, remove this statement from the LEF file with version 5.6 or later. See file /ula2_test/ula/runs/RUN_2023.09.22_01.54.40/tmp/merged.nom.lef at line 930.
+
+[INFO ODB-0223]     Created 13 technology layers
+[INFO ODB-0224]     Created 25 technology vias
+[INFO ODB-0225]     Created 441 library cells
+[INFO ODB-0226] Finished LEF file:  /ula2_test/ula/runs/RUN_2023.09.22_01.54.40/tmp/merged.nom.lef
+[INFO ODB-0127] Reading DEF file: /ula2_test/ula/runs/RUN_2023.09.22_01.54.40/results/routing/ula.def
+[INFO ODB-0128] Design: ula
+[INFO ODB-0130]     Created 24 pins.
+[INFO ODB-0131]     Created 1598 components and 8017 component-terminals.
+[INFO ODB-0132]     Created 2 special nets and 6112 connections.
+[INFO ODB-0133]     Created 613 nets and 1905 connections.
+[INFO ODB-0134] Finished DEF file: /ula2_test/ula/runs/RUN_2023.09.22_01.54.40/results/routing/ula.def
+Top-level design name: ula
+Found default power net 'VPWR'
+Found default ground net 'VGND'
+Found 1 power ports.
+Found 1 ground ports.
+Modified power connections of 1598/1598 cells.
